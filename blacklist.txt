@@ -1,2 +1,2 @@
-1827703560 # слив vless ключей
-7748788276 # слив vless ключей
+1827703560 # Leaking VLESS keys
+7748788276 # Leaking VLESS keys
